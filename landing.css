@@ -1,7 +1,7 @@
 
 /* Search Bar */
 body {
-    background-color: #ffffff
+    background-color: #89DA59
 }
 
 .container {
@@ -86,6 +86,7 @@ body {
     background-color: rgb(255, 253, 253);
     color: rgb(255, 251, 251);
     padding: 0px;
+    left:8pt
 }
 
 .form {
@@ -99,4 +100,10 @@ body {
     align-self: left;
     width: 800px;
     position: left;
+}
+
+
+.movesearch{
+    padding-right: 50%;
+
 }
