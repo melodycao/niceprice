@@ -25,7 +25,7 @@ function App() {
         <div className="App">
             <div
                 className="hello">
-                hello i'm very  cool
+                Scan items here!
             </div>
             <Webcam
                 audio={ false }
