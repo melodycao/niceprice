@@ -12,15 +12,15 @@ The solution is to provide the immigrants/ refugees/ low-income families to spen
 
 
 
-# WHAT MOTIVATED YOU TO GO WITH THIS PROJECT?
+# What motivated you to go with this project?
 We were motivated to do this product after experiencing friends from outside of the country come here and struggle with knowing where to buy products for a good price. Immigrants and refugees must adapt to a new country with new economic standards and costs of living. Those who don’t realize the price they should be paying for a product may be at risk of spending more than they should. 
 
 
-# HOW IMPACTFUL IS YOUR INNOVATION?
+# How impactful is your innovation?
 We hope to impact the lives of all immigrants/ refugees/ low-income families with our product
 
 
 
 
-# WHAT IS THE POTENTIAL FOR IMPACT OF THE IDEA?
+# What is the potential for the impact of the idea?
 By providing a tool to low-income families/immigrants/refugees that effortlessly finds the best price of an item in the blink of an eye, we are ensuring that our most vulnerable communities have one less thing to worry about when it comes to financial responsibilities. We believe that people should not have to spend time and effort on trying to find the best price for an item, which is why our tool comes in handy. Right at your fingertips, you have the best price of an item within your area so you can shop worry-free and save every penny. 
