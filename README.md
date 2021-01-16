@@ -1,26 +1,70 @@
-# NicePrice
+# Getting Started with Create React App
 
-A tool that will help immigrants/ refugees/ low-income families to find the best price for certain products to minimize their costs. 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# IDEA DESCRIPTION
+## Available Scripts
 
-A tool that allows immigrants/ refugees/ low-income families to see where they could get certain products for the lowest price as possible. It will also display the average price of the produce so that newcomers have an idea of how much each product cost generally. It is very easy for the newcomers to pay way more than they should for certain products and not know how to minimize their costs, which is why this tool will allow the newcomers and low-income families to manage their finances more efficiently. 
+In the project directory, you can run:
 
+### `npm start`
 
-# What is your envisioned solution?
-The solution is to provide the immigrants/ refugees/ low-income families to spend as little money as possible on a product to minimize their spendings but also allow newcomers to know what to expect for a product to avoid paying more. 
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
+### `npm test`
 
-# WHAT MOTIVATED YOU TO GO WITH THIS PROJECT?
-We were motivated to do this product after experiencing friends from outside of the country come here and struggle with knowing where to buy products for a good price. Immigrants and refugees must adapt to a new country with new economic standards and costs of living. Those who don’t realize the price they should be paying for a product may be at risk of spending more than they should. 
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
+### `npm run build`
 
-# HOW IMPACTFUL IS YOUR INNOVATION?
-We hope to impact the lives of all immigrants/ refugees/ low-income families with our product
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### `npm run eject`
 
-# WHAT IS THE POTENTIAL FOR IMPACT OF THE IDEA?
-By providing a tool to low-income families/immigrants/refugees that effortlessly finds the best price of an item in the blink of an eye, we are ensuring that our most vulnerable communities have one less thing to worry about when it comes to financial responsibilities. We believe that people should not have to spend time and effort on trying to find the best price for an item, which is why our tool comes in handy. Right at your fingertips, you have the best price of an item within your area so you can shop worry-free and save every penny. 
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
