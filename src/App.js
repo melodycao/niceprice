@@ -41,7 +41,7 @@ function App() {
                         backgroundColor: 'pink',
                         fontSize: '50px'
                     } }
-                >Capture
+                >Scan
                 </button>
                 { image !== null ? (
                     <img
