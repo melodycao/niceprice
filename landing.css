@@ -10,8 +10,10 @@ body {
 }
 
 .logo {
-    padding-top: 70px;
-}
+    padding-top: 80px;
+    padding-right: 30pt;
+}   
+
 
 .input-group-prepend {
     margin-right: -2px !important
@@ -86,13 +88,16 @@ body {
     background-color: rgb(255, 253, 253);
     color: rgb(255, 251, 251);
     padding: 0px;
-    left:8pt
+    left:100pt
 }
 
 .form {
     flex: 1;
     display: flex;
     position: relative;
+    top: -30pt;
+    font-size: 20pt;
+ 
 }
 
 .search-input {
@@ -103,7 +108,46 @@ body {
 }
 
 
+.search-input-items {
+    justify-content: left;
+    align-self: left;
+    position: left;
+}
+
+
 .movesearch{
+    padding-right: 86%;
+}
+
+.movesearch-items{
+    padding-right:  1800px;
+    padding-top: 60px;
+}
+
+.searchBtnStyle{
     padding-right: 50%;
 
 }
+
+.googleMaps{
+    position: absolute;
+    margin-right: 90px;
+    padding-top: 10%;
+    padding-left: 55%;
+}
+
+.search-result{
+    float:left; 
+    color:#217410   ; 
+    font-size:34px; 
+    margin-left: 50px;
+    padding-top: 60pt;
+
+}
+
+.averagePrice{
+    padding-left: 40%;
+}
+
+
+
